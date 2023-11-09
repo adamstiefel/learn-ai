@@ -14,7 +14,7 @@ const Home: React.FC<{ posts: Post[] }> = ({ posts }) => {
   return (
     <main className="min-h-screen bg-gray-100 flex flex-col items-center justify-center">
       <header className="text-center mb-12">
-        <h1 className="text-5xl font-extrabold text-gray-900 mb-4">Learn AI</h1>
+        <h1 className="text-5xl font-extrabold text-blue-900 mb-4">Learn AI</h1>
         <p className="text-xl text-gray-700">
           Learn everything you need to know about AI and machine learning.
         </p>
